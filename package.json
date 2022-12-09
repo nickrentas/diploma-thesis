@@ -34,7 +34,7 @@
     "cors": "^2.8.5",
     "esm": "^3.1.0",
     "event-stream": "^3.3.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "graphql": "^14.0.2",
     "graphql-type-json": "^0.2.1",
     "jsonwebtoken": "^8.4.0",
